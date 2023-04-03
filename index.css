@@ -44,11 +44,13 @@ ul{
     background-color: rgb(217, 142, 217);
     border:2px dashed black;
     width:70%;
-    height: 500px;
+    height: 400px;
 }
 
 .sezionedue,
-.sezionetre{
+.sezionetre,
+.sezionequattro,
+.sezionecinque{
     background-color: rgba(255, 255, 255, 0.91);
     height: 100vh;
     width: 100vw;
@@ -56,15 +58,28 @@ ul{
     justify-content: center;
     align-items: center;
 }
+
+.sezionetre,
+.sezionecinque{
+    background-color:lightgray;
+}
+
 .azzurro{
     width:50%;
-    height:600px;
+    height:500px;
     border:2px dashed black;
     background-color:rgba(51, 125, 227, 0.801);
 }
 .rosa{
     width:30%;
-    height:600px;
+    height:500px;
     border:2px dashed black;
     background-color:pink;
+}
+
+.verde{
+    width:80%;
+    height:650px;
+    background-color: green;
+    border:1px solid black;
 }
