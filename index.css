@@ -66,6 +66,7 @@ ul{
 }
 .sezionesei{
     background-color: rgba(0, 0, 0, 0.759);
+    border-bottom:2px solid grey;
 }
 
 .azzurro{
@@ -99,4 +100,28 @@ ul{
     height:650px;
     background-color:palevioletred;
     border:2px dashed black;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.759);
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerfooter{
+    border: 2px dashed black;
+    height: 50%;
+    width:5%;
+    background-color: palevioletred;
+    line-height: 2rem;
+
+}
+.containerpadrefooter{
+    background-color: rgba(0, 255, 183, 0.647);
+    width:80%;
+    height: 80px;
+    padding-top:10px;
+    display:flex;
+    justify-content: space-between;
 }
