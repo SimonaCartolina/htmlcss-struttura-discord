@@ -5,7 +5,7 @@
 
 }
 header{
-    background-color: rgba(86, 234, 234, 0.741);
+    background-color: #ADD8E6;
     height: 100px;
     display:flex;
     justify-content: center;
@@ -14,7 +14,7 @@ header{
 .container{
     border: 2px dashed black;
     height: 50px;
-    background-color: rgb(202, 205, 50);
+    background-color: #DAA520;
     padding-top:10px;
 }
 .logo, 
@@ -33,7 +33,7 @@ ul{
     justify-content: center;
 }
 .sezioneuno{
-    background-color: blue;
+    background-color: #00008B;
     height: 100vh;
     width: 100vw;
     display:flex;
@@ -41,7 +41,7 @@ ul{
     align-items: center;
 }
 .viola{
-    background-color: rgb(217, 142, 217);
+    background-color: #EE82EE;
     border:2px dashed black;
     width:70%;
     height: 400px;
@@ -52,7 +52,7 @@ ul{
 .sezionequattro,
 .sezionecinque,
 .sezionesei{
-    background-color: rgba(255, 255, 255, 0.91);
+    background-color: #FFFFFF;
     height: 100vh;
     width: 100vw;
     display:flex;
@@ -62,10 +62,10 @@ ul{
 
 .sezionetre,
 .sezionecinque{
-    background-color:lightgray;
+    background-color:#D3D3D3;
 }
 .sezionesei{
-    background-color: rgba(0, 0, 0, 0.759);
+    background-color: #23272A;
     border-bottom:2px solid grey;
 }
 
@@ -73,37 +73,37 @@ ul{
     width:50%;
     height:500px;
     border:2px dashed black;
-    background-color:rgba(51, 125, 227, 0.801);
+    background-color:#1E90FF;
 }
 .rosa{
     width:30%;
     height:500px;
     border:2px dashed black;
-    background-color:pink;
+    background-color:#FFC0CB;
 }
 
 .verde{
     width:80%;
     height:650px;
-    background-color: green;
+    background-color: #228B22;
     border:2px dashed black;
 }
 
 .acqua{
     width:13%;
     height:650px;
-    background-color:aqua;
+    background-color:#20B2AA;
     border:2px dashed white;
 }
 .rosascuro{
     width:28%;
     height:650px;
-    background-color:palevioletred;
+    background-color:#F08080;
     border:2px dashed black;
 }
 
 footer{
-    background-color: rgba(0, 0, 0, 0.759);
+    background-color: #23272A;
     height: 100px;
     display:flex;
     justify-content: center;
@@ -113,12 +113,12 @@ footer{
     border: 2px dashed black;
     height: 50%;
     width:5%;
-    background-color: palevioletred;
+    background-color: #FFB6C1;
     line-height: 2rem;
 
 }
 .containerpadrefooter{
-    background-color: rgba(0, 255, 183, 0.647);
+    background-color: #7FFFD4;
     width:80%;
     height: 80px;
     padding-top:10px;
