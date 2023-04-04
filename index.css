@@ -119,6 +119,7 @@ li{
 footer{
     background-color: #23272A;
     height: 80px;
+    width:100vw;
     display:flex;
     flex-direction:row;
     justify-content: center;
@@ -126,7 +127,6 @@ footer{
 }
 .containerfooter{
     border: 3px dashed black;
-    height: 50%;
     width:5%;
     background-color: #FFB6C1;
     justify-content: center;
@@ -135,9 +135,10 @@ footer{
 .containerpadrefooter{
     background-color: #7FFFD4;
     width:80%;
-    height: 60px;
+    height: 50%;
     padding-top:10px;
     display:flex;
     flex-direction:row;
-    justify-content: space-between;
+    justify-content:space-between;
+    padding:6px 0px;
 }
