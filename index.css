@@ -12,7 +12,7 @@ header{
     align-items: center;
 }
 .container{
-    border: 2px dashed black;
+    border: 23px dashed black;
     height: 50px;
     background-color: #DAA520;
     padding-top:10px;
@@ -42,7 +42,7 @@ ul{
 }
 .viola{
     background-color: #EE82EE;
-    border:2px dashed black;
+    border:3px dashed black;
     width:70%;
     height: 400px;
 }
@@ -66,19 +66,19 @@ ul{
 }
 .sezionesei{
     background-color: #23272A;
-    border-bottom:2px solid grey;
+    border-bottom:3px solid grey;
 }
 
 .azzurro{
     width:50%;
     height:500px;
-    border:2px dashed black;
+    border:3px dashed black;
     background-color:#1E90FF;
 }
 .rosa{
     width:30%;
     height:500px;
-    border:2px dashed black;
+    border:3px dashed black;
     background-color:#FFC0CB;
 }
 
@@ -86,20 +86,20 @@ ul{
     width:80%;
     height:650px;
     background-color: #228B22;
-    border:2px dashed black;
+    border:3px dashed black;
 }
 
 .acqua{
     width:13%;
     height:650px;
     background-color:#20B2AA;
-    border:2px dashed white;
+    border:3px dashed white;
 }
 .rosascuro{
     width:28%;
     height:650px;
     background-color:#F08080;
-    border:2px dashed black;
+    border:3px dashed black;
 }
 
 footer{
@@ -110,7 +110,7 @@ footer{
     align-items: center;
 }
 .containerfooter{
-    border: 2px dashed black;
+    border: 3px dashed black;
     height: 50%;
     width:5%;
     background-color: #FFB6C1;
