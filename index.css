@@ -12,7 +12,7 @@ header{
     align-items: center;
 }
 .container{
-    border: 23px dashed black;
+    border: 3px dashed black;
     height: 50px;
     background-color: #DAA520;
     padding-top:10px;
